@@ -1,4 +1,4 @@
-LRs for French including scripts to reproduce following TALN2018 papers:##
+LRs for French including scripts to reproduce following TALN2018 papers:
 =============
 
 
